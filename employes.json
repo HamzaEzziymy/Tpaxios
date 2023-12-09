@@ -1,0 +1,44 @@
+{
+  "employes": [
+    {
+      "id": "e1",
+      "nomEmp": "Ezziy",
+      "prenomEmp": "Hamza",
+      "poste": "Derecture",
+      "Departement": {
+        "codeDep": "2",
+        "nomDep": "IT"
+      }
+    },
+    {
+      "id": "e2",
+      "nomEmp": "Lkhaldi",
+      "prenomEmp": "Khalid",
+      "poste": "Derecture",
+      "Departement": {
+        "codeDep": "1",
+        "nomDep": "RH"
+      }
+    },
+    {
+      "id": "e3",
+      "nomEmp": "Lahmadi",
+      "prenomEmp": "Iman",
+      "poste": "Secretaire",
+      "Departement": {
+        "codeDep": "1",
+        "nomDep": "RH"
+      }
+    },
+    {
+      "id": "e4",
+      "nomEmp": "Lahmadi",
+      "prenomEmp": "Ahmad",
+      "poste": "Secretaire",
+      "Departement": {
+        "codeDep": "2",
+        "nomDep": "IT"
+      }
+    }
+  ]
+}
